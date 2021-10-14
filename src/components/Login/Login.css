@@ -1,0 +1,28 @@
+.login{
+    height: 94vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(135, 206, 250, 0.233);
+}
+.login-form{
+    height: 40vh;
+    width: 30%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.login-form-inputs{
+    width: 80%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.input-item{
+    width: 100%;
+    margin-bottom: 30px!important;
+}
